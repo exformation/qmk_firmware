@@ -1,3 +1,7 @@
+// unset LD_LIBRARY_PATH // cuz of my LD_PRELOAD shenanigans for osu??
+// nix-shell
+// qmk flash -kb keychron/q2/ansi -km exformation
+
 #include QMK_KEYBOARD_H
 
 enum layers{
