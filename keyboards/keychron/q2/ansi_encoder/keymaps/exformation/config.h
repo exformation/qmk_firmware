@@ -1,1 +1,2 @@
-#define TAPPING_TERM 50
+#define TAPPING_TERM 100
+#define PERMISSIVE_HOLD
